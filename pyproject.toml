@@ -1,0 +1,6 @@
+[project]
+name = "get-near-countries"
+version = "1.0.0"
+description = "Simple utility to query countries with direct bounders to given one."
+requires-python = ">=3.10"
+dependencies = []
